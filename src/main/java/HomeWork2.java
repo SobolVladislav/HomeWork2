@@ -10,7 +10,7 @@ public class HomeWork2 {
         System.out.println(chekNumbers10in20(2, 10));
         checkTheNumber(-1);
         System.out.println(checkTheNumberAgan(2));
-        cyclicalPrinting("я сам это сделал)) это моя маленькая победа))", 2);
+        cyclicalPrinting("я сам это сделал)) это моя маленькая победа))", 99);
         // *доп задание
         leapYear(2300);
     }
